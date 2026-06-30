@@ -1,0 +1,9 @@
+Origin: ZodTTD & MacCity Archive
+Label: ZodTTD & MacCity Archive
+Suite: stable
+Codename: stable
+Architectures: iphoneos-arm
+Components: main
+Description:  
+This is an archive/backup of the ZodTTD and MacCity Cydia repositories.  
+Contains all available .deb packages from the original repos for historical preservation.
